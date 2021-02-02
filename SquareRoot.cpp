@@ -1,4 +1,4 @@
-This is only Function
+//This is only Function
 
 long long int floorSqrt(long long int x) 
 {   
